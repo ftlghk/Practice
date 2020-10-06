@@ -1,16 +1,13 @@
-# 해달실습 1
-## 제목 2
-### 제목 3
+# 과제
+## 게의 종류
 
-_굴게?_ __기울기?__
++ 꽃게  
+![꽃게](https://mblogthumb-phinf.pstatic.net/MjAxODA4MTdfNTIg/MDAxNTM0NTAzOTM4NDU1.qOfdscL935Ru0DYBgqqfhB8y-i7rVih8wjmT6yTS53kg.hPMnit_gVgkrU2y-h6eXWjRzP2wqb1Bj0m0gBYVjsGcg.JPEG.gy57927/output_9945262.jpg?type=w800)
 
-`강조`
++ 대게  
+![대게](https://image.chosun.com/sitedata/image/201412/14/2014121402392_0.jpg)
 
-1. 첫 항목
-2. 둘째 항목
-
-+ 순서 없는 것
-+ 순서 x
-
-[링크1](https://www.google.com)  
++ 킹크랩  
 ![킹크랩](https://tohomeca.thehyundai.com/S/tohomeimage.thehyundai.com/images/000073/20200812155126345_RBVH9V0G.jpg?sh=1280&imw=840&ol=2&v=200812065126)
+
+`셋 다 맛이 있다 지린다`
